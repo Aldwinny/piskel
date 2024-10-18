@@ -1,9 +1,13 @@
+# Extra things
+lister.txt
+
 # mac artifacts
 *.DS_Store
 
 # nodejs local installs
 node_modules
 npm-debug.log
+pnpm-lock.yaml
 
 # node webkit cache
 cache
